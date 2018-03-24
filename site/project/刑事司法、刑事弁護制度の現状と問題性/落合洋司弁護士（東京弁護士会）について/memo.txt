@@ -1,0 +1,9 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+法坂一広（筆名）弁護士と落合洋司弁護士（東京弁護士会）にみる特異な世界観、弁護士小説と弁護士実務の現実
+
+川崎のトンネル通り魔殺人事件とジャーナリスト江川紹子さん
+
+リーガルハイと郷原信郎弁護士
+
